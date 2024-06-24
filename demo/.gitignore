@@ -1,0 +1,6 @@
+node_modules
+install-state.gz
+
+/.cache
+/build
+.env
